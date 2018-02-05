@@ -13,7 +13,16 @@ h1 {
   color: white;
 }
 
+h3 {
+  font-size: 23px;
+  font-weight: 700;
+}
+
 a {
   font-size: 18px;
   color: white;
+}
+
+p {
+  font-size: 14px;
 }
