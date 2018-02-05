@@ -1,6 +1,8 @@
-* {
-  text-align: center;
+
+
+body {
   font-family: Helvetica;
+  text-align: center;
 }
 
 header {
@@ -11,6 +13,11 @@ h1 {
   font-size: 70px;
   font-weight: 700;
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
 }
 
 h3 {
@@ -32,4 +39,10 @@ p {
   font-size: 23px;
   font-weight: 700;
   color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
 }
