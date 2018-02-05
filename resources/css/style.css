@@ -26,3 +26,10 @@ a {
 p {
   font-size: 14px;
 }
+
+.sub-title {
+  background-image:url("../images/the-flatiron-building.jpg");
+  font-size: 23px;
+  font-weight: 700;
+  color: white;
+}
